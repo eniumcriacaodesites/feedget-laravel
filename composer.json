@@ -1,0 +1,17 @@
+{
+    "name": "eniumcriacaosites/feedget-laravel",
+    "description": "Formul\u0000rio para envio de feedbacks dos usu\u0000rios",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eniumcriacaosites\\FeedgetLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carlos da Silva",
+            "email": "carlos@enium.com.br"
+        }
+    ],
+    "require": {}
+}
